@@ -1,12 +1,3 @@
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
-
-<!--
-- From https://github.com/Thomas-George-T
-- https://roypriyanshu02.github.io/impressive-profile-readmes/
-- https://devicon.dev/
-- https://www.sitepoint.com/github-profile-readme/
--->
-
 
 ### Hi there 👋 I'm Martin Sundin,
 
