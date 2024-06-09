@@ -1,4 +1,4 @@
-[![GitHub Views](https://komarev.com/ghpvc/?username=MartinSundin&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=MartinSundin&color=FAC151)
 
 
 ### Hi there 👋 I'm Martin Sundin,
