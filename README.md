@@ -1,3 +1,5 @@
+[![GitHub Views](https://komarev.com/ghpvc/?username=MartinSundin&color=FAC151)][1]
+
 
 ### Hi there 👋 I'm Martin Sundin,
 
