@@ -5,9 +5,9 @@
 
 I am a data scientist/machine learning engineer/quantitative researcher who has worked in industrial IoT analytics and quantitative trading. My passion is to use data, engineering and problem-solving to solve interesting and impactful problems.
 
-- 💻 I’m currently **Open To Work**.
+- 💻 I’m currently working as a quantitative researcher.
 - 💡 I'm interested in: **Data Science, Machine Learning, Quantitative Investing and AI**.
-- 📖 On my blog (To come), I write (mostly) about Generative AI.
+- 📖 On my blog (To come sometime in the future), I (will) write (mostly) about something interesting.
 
 ### Core skills
 
